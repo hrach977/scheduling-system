@@ -31,8 +31,8 @@ public class Application {
         ops.getAllDoctor(mongoOperation);
 
         //remove doctor based on criteria
-        ops.removeDoctor(mongoOperation, "firstName", "John");
+        //ops.removeDoctor(mongoOperation, "firstName", "John");
         // get all the doctors
-        ops.getAllDoctor(mongoOperation);
+        //ops.getAllDoctor(mongoOperation);
     }
 }

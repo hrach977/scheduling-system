@@ -6,7 +6,6 @@ import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.Update;
 
-//import javax.management.Query;
 import java.util.List;
 
 public class MongoDBPOperations {

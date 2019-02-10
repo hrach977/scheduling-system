@@ -1,4 +1,4 @@
 package common.entities;
 
-public class User {
+public class Patient {
 }
